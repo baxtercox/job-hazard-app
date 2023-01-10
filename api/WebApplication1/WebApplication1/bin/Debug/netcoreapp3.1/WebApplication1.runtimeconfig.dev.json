@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Baxter\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Baxter\\.nuget\\packages"
+    ]
+  }
+}
